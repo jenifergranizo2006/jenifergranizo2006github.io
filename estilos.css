@@ -1,0 +1,90 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+  font-size: 20px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-weight: bold;
+  text-align: left;
+}
+
+h2 {
+  font: bold 20px sans-serif;
+  text-align: left;
+}
+
+header, section, footer, aside, nav, article hgroup {
+  display: block;
+}
+a{
+  padding-left: 20px;
+}
+body {
+  background-image: url("IMG/IMG38.jpg");
+  background-color: #cccccc;
+}
+.agrupar {
+  width: 960px;
+  border: 1px solid black;
+  margin: 15px auto;
+  background: #faea5b;
+}
+
+.cabecera {
+  background: #faea5b;
+  border: 1px solid #0e0d0d;
+  padding: 20px;
+  color: rgb(24, 23, 23);
+}
+
+.cabecera h1 {
+  text-align: center;
+}
+
+.seccion {
+  margin: 20px;
+  width: 920px;
+}
+
+article {
+  background: #ffffea;
+  border: 1px solid#0e0d0d  ;
+  padding: 20px;
+  margin-bottom: 15px;
+  text-align: justify;
+}
+
+.pie {
+  clear: both;
+  padding: 20px;
+  background: #faea5b;
+}
+
+img {
+  width: 300px;
+  height: 400px;
+  display: block;
+  margin: 40px auto;
+  padding: 2px;
+  border: 5px solid #000000;
+} 
+
+.eco{
+  width: 400px;
+  height: 400px;
+  display: block;
+  margin: 20px auto;
+  border: 1px solid#0e0d0d  ;
+}
+ul{
+  padding: 20px;
+}
+li {
+  text-align: left;
+  margin-left: 10px;
+  padding: 3px;
+}
+.foot{
+  text-align: center;
+}
